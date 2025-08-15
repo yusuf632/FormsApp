@@ -1,6 +1,4 @@
-📋 Proje Tanımı (Sadık Turan tarafından öğrendim)
-
-FormsApp, ASP.NET Core MVC kullanılarak geliştirilmiş temel bir ürün yönetim sistemidir. Kullanıcıların ürünleri listeleyebileceği, düzenleyebileceği ve silebileceği basit bir arayüz sunar.
+📋 Proje Tanımı: FormsApp, ASP.NET Core MVC kullanılarak geliştirilmiş temel bir ürün yönetim sistemidir. Kullanıcıların ürünleri listeleyebileceği, düzenleyebileceği ve silebileceği basit bir arayüz sunar.
 
 🛠 Teknoloji Yığını
 
