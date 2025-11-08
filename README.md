@@ -1,6 +1,6 @@
-📋 Proje Tanımı: FormsApp, ASP.NET Core MVC kullanılarak geliştirilmiş temel bir ürün yönetim sistemidir. Kullanıcıların ürünleri listeleyebileceği, düzenleyebileceği ve silebileceği basit bir arayüz sunar.
+📋 Project Description: FormsApp is a basic product management system developed using ASP.NET Core MVC. It offers a simple interface where users can list, edit, and delete products.
 
-🛠 Teknoloji Yığını
+🛠 Technology Stack
 
 - Backend: ASP.NET Core MVC
 
@@ -8,20 +8,20 @@
 
 - Development: Visual Studio 2022
 
-✨ Temel Özellikler
+✨ Key Features
 
-📦 Ürün Yönetimi
+📦 Product Management
 
-- Ürün listeleme (ID, Resim, Ad, Fiyat)
+- Product listing (ID, Image, Name, Price)
 
-- Yeni ürün ekleme ("Create" butonu)
+- Adding new products (“Create” button)
 
-- Ürün düzenleme ("Edit" butonu)
+- Edit product (“Edit” button)
 
-- Ürün silme ("Delete" butonu)
+- Delete product (“Delete” button)
 
-🔍 Arama ve Filtreleme
+🔍 Search and Filtering
 
-- Anahtar kelimeye göre arama
+- Search by keyword
 
 
